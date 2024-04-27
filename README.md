@@ -13,4 +13,5 @@ Instalation :
 1. Clone repository
 2. Open repository in your code editor
 3. Make sure project backend still running
-4. Running : npm start
+4. Run script : npm install
+5. Running : npm start
